@@ -1,0 +1,15 @@
+# MetaTrader compiled binaries and local artifacts
+*.ex5
+*.ex4
+
+# Strategy Tester output
+*.htm
+*.html
+*.opt
+*.set
+MQL5/Files/*.csv
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*.swp
